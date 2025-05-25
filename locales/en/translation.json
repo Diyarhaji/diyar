@@ -1,0 +1,198 @@
+{
+  "greeting": "Hi! I'm",
+  "name": "Diyar",
+  "surname": "Haji",
+  "description": "Passionate about creating exceptional digital experiences and leading teams to deliver innovative solutions in Kurdistan and beyond.",
+  "download_cv": "Download CV",
+  "contact_me": "Contact Me",
+   "role1": "UX / UI Designer",
+  "role2": "Project Manager",
+  "role3": "Front-End Developer",
+
+
+
+  "titlea": "About my",
+    "heading": "I'm Diyar Haji - Passionate Project Manager & Front-End Developer",
+    "paragraph1": "As a dedicated Project Manager and skilled Front-End Developer based in Kurdistan, I bring a powerful combination of technical expertise and strategic leadership. I specialize in bridging the gap between development teams and business goals, ensuring seamless collaboration and impactful results.",
+    "paragraph2": "With a proven track record of leading diverse teams and delivering innovative web applications, I focus on driving business growth through smart, user-centered solutions. My hands-on approach ensures that every project is completed on time, within budget, and beyond expectations.",
+    "leadership": "Leadership",
+    "leadership_desc": "Team Management & Strategy",
+    "delivery": "Delivery",
+    "delivery_desc": "On-time Project Completion",
+    "quality": "Quality",
+    "quality_desc": "Excellence in Every Detail",
+
+       
+
+
+
+
+  "services_title": "My Service",
+  "services_subtitle": "Specialized services tailored to help businesses and individuals achieve their digital goals",
+
+
+  "services_webdev_title": "Web Development",
+  "services_webdev_desc": "Building responsive and high-performance websites and web applications tailored to your business goals.",
+  "services_webdev_features_title": "Key Features:",
+  "services_webdev_features-1": "HTML, CSS, JS, React, Next.js",
+  "services_webdev_features-2":"Responsive & cross-browser design",
+  "services_webdev_features-3":"API integration & RESTful services",
+  "services_webdev_features-4":"Performance & SEO optimization",
+  
+
+  "services_design_title": "Design Integration",
+  "services_design_desc": "Seamlessly integrating beautiful designs into functional, production-ready front-end code.",
+  "services_design_features_title": "Key Features:",
+  "services_design_features-1":"Pixel-perfect UI implementation",
+  "services_design_features-2":"Figma to code conversion",
+  "services_design_features-3":"Tailwind CSS & Styled Components",
+  "services_design_features-4":"Mobile-first design principles",
+
+  "services_uiux_title": "UI/UX Optimization",
+  "services_uiux_desc": "Enhancing user experience through thoughtful interface design and interaction patterns.",
+  "services_uiux_features_title": "Key Features:",
+  "services_uiux_features-1":"User journey improvement",
+  "services_uiux_features-2":"A/B testing & analytics",
+  "services_uiux_features-3":"Accessibility compliance (WCAG)",
+  "services_uiux_features-4":"Consistent visual language",
+
+  "services_project_title": "Project Management",
+  "services_project_desc": "Delivering projects efficiently through structured planning, tracking, and collaboration.",
+  "services_project_features_title": "Key Features:",
+  "services_project_features-1":"Scope & resource planning",
+  "services_project_features-2":"Risk analysis & mitigation",
+  "services_project_features-3":"Milestone tracking",
+  "services_project_features-4":"Time and budget management",
+
+  "services_agile_title": "Agile Project Management",
+  "services_agile_desc": "Applying Agile methodologies to foster flexibility, iteration, and rapid delivery.",
+  "services_agile_features_title": "Key Features:",
+  "services_agile_features-1": "Scrum & Kanban frameworks",
+  "services_agile_features-2": "Sprint planning & retrospectives",
+  "services_agile_features-3": "Iterative development cycles",
+  "services_agile_features-4": "Jira / Trello / Asana integration",
+
+  "services_communication_title": "Team & Client Communication",
+  "services_communication_desc": "Ensuring smooth communication between team members and clients for successful outcomes.",
+  "services_communication_features_title": "Key Features:",
+  "services_communication_features-1": "Clear documentation & updates",
+  "services_communication_features-2": "Conflict resolution strategies",
+  "services_communication_features-3": "Cross-functional team leadership",
+  "services_communication_features-4":  "Client feedback loops",
+
+
+  "project_title": "My Project",
+  "title-1": "Web Developer",
+  "description-1": "A personal portfolio showcasing modern web development skills.",
+  
+  "title-2": "Project Manager Portfolio",
+  "description-2": "Professional portfolio for presenting project management expertise.",
+  
+  "title-3": "English Teacher",
+  "description-3": "Simple and elegant portfolio for showcasing teaching skills.",
+  
+  "title-4": "Front End Developer",
+  "description-4": "Modern front-end portfolio focusing on UI design and interactivity.",
+  
+  "title-5": "Front End Developer",
+  "description-5": "Showcases front-end projects with clean and responsive layouts.",
+  
+  "title-6": "Mobile App Developer",
+  "description-6": "Portfolio demonstrating skills in mobile app interface design.",
+  
+  "title-7": "English Teacher",
+  "description-7": "Teaching portfolio featuring educational materials and lessons.",
+  
+  "title-8": "Language Learning Center",
+  "description-8": "Educational platform offering language courses and enrollment.",
+  
+  "title-9": "Furniture Website",
+  "description-9": "Online store for stylish and functional home furniture.",
+  
+  "title-10": "Fitness (GYM)",
+  "description-10": "Website for a gym with classes, schedules, and membership info.",
+  
+  "title-11": "Clothing Shop",
+  "description-11": "Fashionable online clothing store with modern design.",
+  
+  "title-12": "Coffee Shop",
+  "description-12": "Cozy café website showcasing menu and customer favorites.",
+  
+  "title-13": "Book Shop",
+  "description-13": "Online bookstore with wide selection and user-friendly layout.",
+  
+  "title-14": "Kurdistan Restaurant",
+  "description-14": "Traditional Kurdish restaurant with cultural design and menu.",
+  
+  "title-15": "Traditional Restaurant",
+  "description-15": "Classic restaurant website with menu, gallery, and booking.",
+  
+  "title-16": "Waster Food",
+  "description-16": "Fast food delivery service with sleek UI and ordering options.",
+  
+  "title-17": "Shoe Store",
+  "description-17": "Trendy shoe store offering stylish footwear collections.",
+  
+  "title-18": "Modern Shoe Store",
+  "description-18": "Modern e-commerce site for premium shoes and accessories.",
+  
+  "title-19": "Luxury Hotel",
+  "description-19": "Luxury hotel website with elegant design and reservation system.",
+  
+  "title-20": "Kurdish Hotel",
+  "description-20": "Beautifully designed hotel site with a cultural theme.",
+  
+  "title-21": "Mear Hotel",
+  "description-21": "Responsive hotel booking site with modern UI and features.",
+  
+  "title-22": "Traveling",
+  "description-22": "Travel site providing guides, photos, and trip planning tips.",
+  
+  "title-23": "Kurdistan Travel",
+  "description-23": "Tourism site for exploring Kurdistan’s natural beauty.",
+  
+  "title-24": "Kurdish Luxury",
+  "description-24": "Luxury travel and resort booking site for Kurdish destinations.",
+
+
+  "view_live": "View Live",
+  "all":"All",
+  "portfolio":"Portfolio",
+  "travel":"Travel",
+  "shop":"Shop",
+
+
+
+
+
+  "title-contact": "Get In Touch",
+    "intro": "Have a project in mind? Let's discuss how we can work together to bring your ideas to life.",
+    "startConversationTitle": "Let's Start a Conversation",
+    "startConversationText": "I'm always interested in new opportunities and exciting projects. Whether you're a startup looking to build your first application or an established company seeking to modernize your tech stack, I'd love to hear from you.",
+    "emailLabel": "Email",
+    "emailValue": "diyargohdarhaji@gmail.com",
+    "phoneLabel": "Phone Number",
+    "phoneValue": "+9647511978863",
+    "locationLabel": "Location",
+    "locationValue": "Dohuk, Kurdistan, Iraq",
+    "followMe": "Follow Me",
+    "sendMessage": "Send Message",
+    "name-contact": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your.email@example.com",
+    "subjectPlaceholder": "Project discussion",
+    "messagePlaceholder": "Tell me about your project",
+    "submit": "Sent Message",
+     "footer":"© 2024 Diyar Haji. All rights reserved. Built with React & Tailwind CSS.",
+      "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+
+  
+
+}
