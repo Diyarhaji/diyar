@@ -6,7 +6,7 @@ const Projects = () => {
   const { t } = useTranslation();
   return (
     <div id='projects' className="h-auto  ">
-       <Tiltle text={t('titlea')} />
+       <Tiltle text={t('project_title')} />
       <ProjectFilter />
     </div>
   )
