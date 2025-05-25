@@ -11,7 +11,7 @@ const LanguageDropdown = () => {
   };
 
   // Determine direction based on the current language
-  const direction = i18n.language === 'ar' || i18n.language === 'ku' ? 'rtl' : 'ltr';
+  const direction = i18n.language === 'ar' || i18n.language === 'kur' ? 'rtl' : 'ltr';
 
   // Optional: Apply direction to the <html> or <body> element
   useEffect(() => {
@@ -44,7 +44,7 @@ const LanguageDropdown = () => {
       {isOpen && (
         <div className="absolute z-10 mt-2 w-full rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5">
           <div className="py-1">
-            {['en', 'ar', 'ku'].map((lang) => (
+            {['en', 'ar', 'kur'].map((lang) => (
               <button
                 key={lang}
                 onClick={() => changeLanguage(lang)}
