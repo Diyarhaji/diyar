@@ -1,0 +1,195 @@
+{
+  "greeting": "مرحبًا! أنا",
+  "name": "ديار",
+  "surname": "حاجي",
+  "description": "شغوف بإنشاء تجارب رقمية استثنائية وقيادة الفرق لتقديم حلول مبتكرة في كردستان وخارجها.",
+  "download_cv": "تحميل السيرة الذاتية",
+  "contact_me": "اتصل بي",
+  "role1": "مصمم UX / UI",
+  "role2": "مدير مشاريع",
+  "role3": "مطوّر الواجهة الأمامية",
+
+
+
+
+  "titlea": "عن نفسي",
+    "heading": "أنا ديار حاجي - مدير مشاريع ومطور واجهات أمامية شغوف",
+    "paragraph1": "بصفتي مدير مشاريع مكرس ومطور واجهات أمامية ماهر مقيم في كردستان، أجلب مزيجًا قويًا من الخبرة التقنية والقيادة الاستراتيجية. أخصص نفسي لسد الفجوة بين فرق التطوير وأهداف العمل، مع ضمان التعاون السلس والنتائج المؤثرة.",
+    "paragraph2": "مع سجل حافل في قيادة فرق متنوعة وتسليم تطبيقات ويب مبتكرة، أركز على دفع نمو الأعمال من خلال حلول ذكية تركز على المستخدم. يضمن منهجي العملي إتمام كل مشروع في الوقت المحدد وضمن الميزانية وأكثر من المتوقع.",
+    "leadership": "القيادة",
+    "leadership_desc": "إدارة الفريق والاستراتيجية",
+    "delivery": "التسليم",
+    "delivery_desc": "إتمام المشروع في الوقت المحدد",
+    "quality": "الجودة",
+    "quality_desc": "التميز في كل التفاصيل",
+
+
+
+
+  "services_title": "خدماتي",
+  "services_subtitle": "خدمات متخصصة مصممة لمساعدة الشركات والأفراد على تحقيق أهدافهم الرقمية",
+
+  "services_webdev_title": "تطوير الويب",
+  "services_webdev_desc": "بناء مواقع وتطبيقات ويب متجاوبة وعالية الأداء مصممة وفقًا لأهداف عملك.",
+  "services_webdev_features_title": "الميزات الرئيسية:",
+  "services_webdev_features-1":"HTML، CSS، JS، React، Next.js",
+  "services_webdev_features-2":"تصميم متجاوب ومتوافق مع جميع المتصفحات",
+  "services_webdev_features-3":"تكامل API وخدمات RESTful",
+  "services_webdev_features-4":"تحسين الأداء وSEO",
+
+  "services_design_title": "تكامل التصميم",
+  "services_design_desc": "دمج التصاميم الجميلة بسلاسة في كود الواجهة الأمامية الوظيفي وجاهز للإنتاج.",
+  "services_design_features_title": "الميزات الرئيسية:",
+  "services_design_features-1":"تنفيذ واجهة مستخدم بدقة البيكسل",
+  "services_design_features-2":"تحويل Figma إلى كود",
+  "services_design_features-3":"Tailwind CSS ومكونات Styled",
+  "services_design_features-4":"مبادئ التصميم المتجاوب مع الأجهزة المحمولة",
+
+  "services_uiux_title": "تحسين واجهة المستخدم وتجربة المستخدم",
+  "services_uiux_desc": "تحسين تجربة المستخدم من خلال تصميم واجهة وتفاعلات مدروسة.",
+  "services_uiux_features_title": "الميزات الرئيسية:",
+  "services_uiux_features-1":"تحسين رحلة المستخدم",
+  "services_uiux_features-2":"اختبار A/B والتحليلات",
+  "services_uiux_features-3":"الامتثال لمعايير الوصول (WCAG)",
+  "services_uiux_features-4":"لغة بصرية متسقة",
+
+  "services_project_title": "إدارة المشاريع",
+  "services_project_desc": "تسليم المشاريع بكفاءة من خلال التخطيط المنظم والمتابعة والتعاون.",
+  "services_project_features_title": "الميزات الرئيسية:",
+  "services_project_features-1":"تخطيط النطاق والموارد",
+  "services_project_features-2":"تحليل المخاطر والتخفيف منها",
+  "services_project_features-3":"متابعة الإنجازات",
+  "services_project_features-4":"إدارة الوقت والميزانية",
+
+  "services_agile_title": "إدارة المشاريع المرنة (Agile)",
+  "services_agile_desc": "تطبيق منهجيات Agile لتعزيز المرونة والتكرار والتسليم السريع.",
+  "services_agile_features_title": "الميزات الرئيسية:",
+  "services_agile_features-1":"أطر Scrum و Kanban",
+  "services_agile_features-2":"تخطيط السبرينت والتقييمات الراجعة",
+  "services_agile_features-3":"دورات تطوير تكرارية",
+  "services_agile_features-4":"تكامل Jira / Trello / Asana",
+
+  "services_communication_title": "التواصل بين الفريق والعملاء",
+  "services_communication_desc": "ضمان التواصل السلس بين أعضاء الفريق والعملاء لتحقيق نتائج ناجحة.",
+  "services_communication_features_title": "الميزات الرئيسية:",
+  "services_communication_features-1":"توثيق واضح وتحديثات مستمرة",
+  "services_communication_features-2":"استراتيجيات حل النزاعات",
+  "services_communication_features-3":"قيادة فرق متعددة الوظائف",
+  "services_communication_features-4":"دورات تغذية راجعة من العملاء",
+
+
+
+
+   "project_title": "مشروعي",
+
+    "title-1": "مطور ويب",
+  "description-1": "محفظة شخصية تعرض مهارات تطوير الويب الحديثة.",
+  
+  "title-2": "محفظة مدير مشروع",
+  "description-2": "محفظة احترافية لعرض خبرة إدارة المشاريع.",
+  
+  "title-3": "معلم لغة إنجليزية",
+  "description-3": "محفظة بسيطة وأنيقة لعرض مهارات التدريس.",
+  
+  "title-4": "مطور الواجهة الأمامية",
+  "description-4": "محفظة حديثة تركز على تصميم واجهة المستخدم والتفاعل.",
+  
+  "title-5": "مطور الواجهة الأمامية",
+  "description-5": "يعرض مشاريع واجهة أمامية بتصاميم نظيفة ومتجاوبة.",
+  
+  "title-6": "مطور تطبيقات موبايل",
+  "description-6": "محفظة توضح مهارات تصميم واجهات تطبيقات الجوال.",
+  
+  "title-7": "معلم لغة إنجليزية",
+  "description-7": "محفظة تعليمية تحتوي على دروس ومواد تعليمية.",
+  
+  "title-8": "مركز تعلم اللغات",
+  "description-8": "منصة تعليمية تقدم دورات لغات وخدمات تسجيل.",
+  
+  "title-9": "موقع أثاث",
+  "description-9": "متجر إلكتروني للأثاث المنزلي الأنيق والعملي.",
+  
+  "title-10": "نادي رياضي (GYM)",
+  "description-10": "موقع للنادي الرياضي يقدم حصصًا وجداول ومعلومات العضوية.",
+  
+  "title-11": "متجر ملابس",
+  "description-11": "متجر ملابس عصري عبر الإنترنت بتصميم حديث.",
+  
+  "title-12": "مقهى",
+  "description-12": "موقع مقهى مريح يعرض قائمة الطعام والمفضلات.",
+  
+  "title-13": "متجر كتب",
+  "description-13": "متجر كتب إلكتروني بتصميم مريح ومجموعة واسعة.",
+  
+  "title-14": "مطعم كردستان",
+  "description-14": "مطعم كردي تقليدي بتصميم وثقافة فريدة.",
+  
+  "title-15": "مطعم تقليدي",
+  "description-15": "موقع لمطعم كلاسيكي مع قائمة وصور وحجوزات.",
+  
+  "title-16": "طعام سريع",
+  "description-16": "خدمة توصيل طعام سريع مع واجهة سهلة وخيارات طلب.",
+  
+  "title-17": "متجر أحذية",
+  "description-17": "متجر أحذية عصري يقدم تشكيلات أنيقة.",
+  
+  "title-18": "متجر أحذية حديث",
+  "description-18": "موقع تجارة إلكترونية حديث للأحذية والإكسسوارات.",
+  
+  "title-19": "فندق فاخر",
+  "description-19": "موقع فندق فاخر بتصميم أنيق ونظام حجز.",
+  
+  "title-20": "فندق كردي",
+  "description-20": "موقع فندق جميل التصميم بطابع ثقافي.",
+  
+  "title-21": "فندق مير",
+  "description-21": "موقع حجز فندقي متجاوب بواجهة حديثة.",
+  
+  "title-22": "السفر",
+  "description-22": "موقع سفر يقدم أدلة وصور ونصائح للتخطيط.",
+  
+  "title-23": "سياحة كردستان",
+  "description-23": "موقع سياحي لاكتشاف جمال كردستان الطبيعي.",
+  
+  "title-24": "سياحة فاخرة كردية",
+  "description-24": "موقع لحجوزات السفر الفاخر إلى وجهات كردية.",
+
+
+   "view_live": "عرض مباشر",
+    "all":"الكل",
+  "portfolio":"ملف الأعمال",
+  "travel":"سفر",
+  "shop":"متجر",
+
+
+
+   "title-contact": "تواصل معنا",
+    "intro": "هل لديك مشروع في بالك؟ دعنا نناقش كيف يمكننا التعاون لتحقيق أفكارك.",
+    "startConversationTitle": "دعنا نبدأ الحديث",
+    "startConversationText": "أنا دائمًا مهتم بالفرص الجديدة والمشاريع المثيرة. سواء كنت شركة ناشئة أو شركة قائمة ترغب في تحديث تقنياتها، يسعدني الاستماع إليك.",
+    "emailLabel": "البريد الإلكتروني",
+    "emailValue": "diyargohdarhaji@gmail.com",
+    "phoneLabel": "رقم الهاتف",
+    "phoneValue": "+9647511978863",
+    "locationLabel": "الموقع",
+    "locationValue": "دهوك، كردستان، العراق",
+    "followMe": "تابعني",
+    "sendMessage": "أرسل رسالة",
+    "name-contact": "الاسم",
+    "email": "البريد الإلكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "namePlaceholder": "اسمك",
+    "emailPlaceholder": "example@email.com",
+    "subjectPlaceholder": "مناقشة المشروع",
+    "messagePlaceholder": "أخبرني عن مشروعك",
+    "submit": "إرسال الرسالة",
+     "footer":"© 2024 ديار حاجي. جميع الحقوق محفوظة. تم التصميم باستخدام React و Tailwind CSS.",
+      "home": "الرئيسية",
+    "about": "من أنا",
+    "services": "الخدمات",
+    "projects": "المشاريع",
+    "contact": "تواصل معي"
+  
+
+}

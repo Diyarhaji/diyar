@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.loader {
+  width: fit-content;
+  font-size: 40px;
+  font-family: system-ui,sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #ffffff00;
+  -webkit-text-stroke: 1px #ffffff;
+  background: conic-gradient(#ffffff 0 0) 50%/0 100% no-repeat text;
+  animation: l4 2s linear infinite;
+}
+.loader:before {
+  content: "";
+}
+@keyframes l4 {
+  to{background-size: 120% 100%}
+}
